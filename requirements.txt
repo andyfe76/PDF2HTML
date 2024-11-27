@@ -1,0 +1,5 @@
+google-api-python-client==2.154.0
+google-auth-oauthlib==1.2.1
+html2text==2024.2.26
+requests==2.32.3
+lxml==5.3.0
